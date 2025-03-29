@@ -3,19 +3,18 @@
 Добавьте пользователя cryptouser.
 Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.
-![screen1](https://github.com/alibok86/host_protect/blob/master/path/1.png)
-
+![screen1](https://github.com/alibok86/host_protect/blob/main/path/1.png)
 
 ## Задание 2
 **Установите поддержку LUKS.
 Создайте небольшой раздел, например, 100 Мб.
 Зашифруйте созданный раздел с помощью LUKS.
 В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.
-![screen2](https://github.com/alibok86/host_protect/blob/master/path/2.png)
-![screen3](https://github.com/alibok86/host_protect/blob/master/path/3.png)
-![screen4](https://github.com/alibok86/host_protect/blob/master/path/4.png)
-![screen5](https://github.com/alibok86/host_protect/blob/master/path/5.png)
-![screen6](https://github.com/alibok86/host_protect/blob/master/path/6.png)
+![screen2](https://github.com/alibok86/host_protect/blob/main/path/2.png)
+![screen3](https://github.com/alibok86/host_protect/blob/main/path/3.png)
+![screen4](https://github.com/alibok86/host_protect/blob/main/path/4.png)
+![screen5](https://github.com/alibok86/host_protect/blob/main/path/5.png)
+![screen6](https://github.com/alibok86/host_protect/blob/main/path/6.png)
 
 
 
